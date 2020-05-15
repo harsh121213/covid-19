@@ -1,0 +1,14 @@
+body{
+    background-color:papayawhip;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.image{
+    width: 200px;
+    margin-top:40px;
+}
