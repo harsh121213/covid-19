@@ -1,7 +1,7 @@
 {
   "name": "covid-19",
   "version": "0.1.0",
-  "homepage": "https://harsh121213.github.io/covid/",
+  "homepage": "https://harsh121213.github.io/covid-19/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.13",
