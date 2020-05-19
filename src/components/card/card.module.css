@@ -20,7 +20,5 @@
 
 }
 .active{
-border-bottom:10px solid red;
-margin-top:10px !important;
-margin-left: 10px;
+ border-bottom: 10px solid rgba(255,0,0,.5);
 }
